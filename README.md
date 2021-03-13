@@ -17,7 +17,7 @@ HTML + CSS + JAVASCRIPT + REACT + PYTHON + DJANGO + DATABASES
 [Introduction to JavaScript](https://github.com/napatwongchr/intro-to-javascript)<br>
 [Introduction to React](https://github.com/napatwongchr/intro-to-react)<br>
 [Introduction to Python](https://drive.google.com/file/d/1STv7liCVMSKj-BRPMgojCX3RCN9H_wEs/view?usp=sharing)<br>
-Introduction to Databases<br>
+[Introduction to Databases](https://github.com/napatwongchr/intro-to-database)<br>
 Introduction to Django<br>
 Introduction to Container<br>
 Introduction to Webpack
@@ -26,4 +26,6 @@ Introduction to Webpack
 
 ## Problem Solving Center
 
-TBD
+[JavaScript Exercises](https://github.com/lydiahallie/javascript-questions)
+
+[React Exercises](https://github.com/sudheerj/reactjs-interview-questions)
